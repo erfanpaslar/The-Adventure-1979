@@ -88,7 +88,7 @@ os.environ["SDL_VIDEO_CENTERED"] = "1"
 pygame.init()
 
 # Set up the display
-pygame.display.set_caption("Get to the red square!")  # title
+pygame.display.set_caption("The Adventure")  # title
 screen = pygame.display.set_mode((1000, 600))  # scale
 # gray = (150, 150, 150)
 gray = (60, 60, 60)
